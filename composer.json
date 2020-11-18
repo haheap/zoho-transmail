@@ -1,0 +1,15 @@
+{
+    "name": "haheap/zoho-transmail",
+    "description": "Interface to use Zoho Transmail as mailprovider for Laravel projects",
+    "require-dev": {
+        "orchestra/testbench": "^6.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hans Henrik Appel",
+            "email": "haheap@haheap.com"
+        }
+    ],
+    "require": {}
+}
